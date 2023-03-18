@@ -1,0 +1,229 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Flower bouquet",
+      "category": "flowers",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1428/2106/products/H4K9eSSvH9_1024x1024.jpg?v=1569480201",
+        "https://media.karousell.com/media/photos/products/2021/1/24/surprise_flower_gift_bouquet_d_1611532428_a1661fdd.jpg"
+      ],
+      "price": 20,
+      "discount": 34
+    },
+    {
+      "id": 1,
+      "name": "Bouquet",
+      "category": "flowers",
+      "images": [
+        "https://media.karousell.com/media/photos/products/2021/1/24/surprise_flower_gift_bouquet_d_1611532428_a1661fdd.jpg",
+        "https://cdn.shopify.com/s/files/1/1428/2106/products/H4K9eSSvH9_1024x1024.jpg?v=1569480201"
+      ],
+      "price": 15
+    },
+    {
+      "id": 2,
+      "name": "Bear toy",
+      "category": "gifts",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAg1Ya80SmtVVQX11Y2LYITuRNN_oHSTBTAA&usqp=CAU"
+      ],
+      "price": 90,
+      "discount": 130
+    },
+    {
+      "id": 3,
+      "name": "Big bear",
+      "category": "gifts",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6IX615IBa95O5hVgJWxbBcQR98BLltu--9A&usqp=CAU"
+      ],
+      "price": 300
+    },
+    {
+      "id": 4,
+      "name": "Sweet cakes",
+      "category": "sweets",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95t7pkodrI3d9FXNCBs_ysaYcfSGGHe6yHw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOz6wGDn5DcT_kkJSvGey3W2f4HlV5RkDygg&usqp=CAU"
+      ],
+      "price": 25
+    },
+    {
+      "id": 5,
+      "name": "Sweet candies",
+      "category": "sweets",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOz6wGDn5DcT_kkJSvGey3W2f4HlV5RkDygg&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjf3Q2N-bAy0WpLolZb5T1RMq8pKEMvc8NA&usqp=CAU"
+      ],
+      "price": 9,
+      "discount": 21
+    },
+    {
+      "id": 6,
+      "name": "Balloons",
+      "category": "balloons",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYzNw4NUXo1vx18Qaf-K5CZd0N0zVy26nUQ&usqp=CAU"
+      ],
+      "price": 17
+    },
+    {
+      "id": 7,
+      "name": "For holiday",
+      "category": "balloons",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdqfR9aODH3ekzPgXA6nPbrlVOQdsDlHLog&usqp=CAU"
+      ],
+      "price": 6,
+      "discount": 11
+    },
+    {
+      "id": 8,
+      "name": "Assarty",
+      "category": "fruits",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_9tFlrYKPA13wG7IjiT8YuC92HsPCGl8QAw&usqp=CAU"
+      ],
+      "price": 25,
+      "discount": 40
+    },
+    {
+      "id": 9,
+      "name": "Sweet freuits",
+      "category": "fruits",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK1daEk92mQASTmsP3xlEUCo3qbx7ABdjrrQ&usqp=CAU"
+      ],
+      "price": 28,
+      "discount": 39
+    },
+    {
+      "id": 10,
+      "name": "Indoor plants",
+      "category": "plants",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbZnb7SVWV8FyPhkKpmvKhKQu8ZT_IO12sDQ&usqp=CAU"
+      ],
+      "price": 18,
+      "discount": 35
+    },
+    {
+      "id": 11,
+      "name": "House tree",
+      "category": "plants",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTczLEEeJofJGsVmMcSiUmrvr_Sa_LXJ0kE1w&usqp=CAU"
+      ],
+      "price": 33,
+      "discount": 59
+    },
+    {
+      "id": 12,
+      "name": "Delivery service",
+      "category": "services",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRChxUne-pDmfAN0gGb9_2iezXmyCPcBrgACA&usqp=CAU"
+      ],
+      "price": 0,
+      "discount": 5
+    },
+    {
+      "id": 13,
+      "name": "Building",
+      "category": "services",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF2lFghohHcTCYJOAsVOH9QQoARJ-w2a0tpw&usqp=CAU"
+      ],
+      "price": 750,
+      "discount": 980
+    },
+    {
+      "id": 13,
+      "name": "Shop for accessories",
+      "category": "accessories",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJjBhWba20_Jm060yhD1p7Xp4Oyb2wqCw-Fw&usqp=CAU"
+      ],
+      "price": 250,
+      "discount": 410
+    },
+    {
+      "id": 14,
+      "name": "Fashion accessories",
+      "category": "accessories",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCh9hIgSOlVEknphrUwUDVdqQKNqz10RthRg&usqp=CAU"
+      ],
+      "price": 185,
+      "discount": 399
+    }
+  ],
+  "discounts": [
+    {
+      "id": "01",
+      "name": "Shop for accessories",
+      "category": "accessories",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJjBhWba20_Jm060yhD1p7Xp4Oyb2wqCw-Fw&usqp=CAU"
+      ],
+      "price": 250,
+      "discount": 410
+    },
+    {
+      "id": "02",
+      "name": "Assarty",
+      "category": "fruits",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_9tFlrYKPA13wG7IjiT8YuC92HsPCGl8QAw&usqp=CAU"
+      ],
+      "price": 25,
+      "discount": 40
+    },
+    {
+      "id": "03",
+      "name": "Sweet candies",
+      "category": "sweets",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOz6wGDn5DcT_kkJSvGey3W2f4HlV5RkDygg&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjf3Q2N-bAy0WpLolZb5T1RMq8pKEMvc8NA&usqp=CAU"
+      ],
+      "price": 9,
+      "discount": 21
+    },
+    {
+      "id": "04",
+      "name": "Bouquet",
+      "category": "flowers",
+      "images": [
+        "https://media.karousell.com/media/photos/products/2021/1/24/surprise_flower_gift_bouquet_d_1611532428_a1661fdd.jpg",
+        "https://cdn.shopify.com/s/files/1/1428/2106/products/H4K9eSSvH9_1024x1024.jpg?v=1569480201"
+      ],
+      "price": 15,
+      "discount": 28
+    },
+    {
+      "id": "05",
+      "name": "House tree",
+      "category": "plants",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTczLEEeJofJGsVmMcSiUmrvr_Sa_LXJ0kE1w&usqp=CAU"
+      ],
+      "price": 33,
+      "discount": 59
+    },
+    {
+      "id": "06",
+      "name": "Flower bouquet",
+      "category": "flowers",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1428/2106/products/H4K9eSSvH9_1024x1024.jpg?v=1569480201",
+        "https://media.karousell.com/media/photos/products/2021/1/24/surprise_flower_gift_bouquet_d_1611532428_a1661fdd.jpg"
+      ],
+      "price": 20,
+      "discount": 34
+    }
+  ]
+}

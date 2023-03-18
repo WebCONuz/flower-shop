@@ -1,0 +1,65 @@
+@import "../../theme.scss";
+
+.header {
+  padding-top: 50px;
+
+  &__contaner {
+    display: flex;
+    align-items: center;
+  }
+
+  &__logo {
+    margin-right: auto;
+    & img {
+      width: 210px;
+      height: 42px;
+    }
+  }
+
+  &__heart,
+  &__bag {
+    display: block;
+    height: 30px;
+    width: 30px;
+    color: $green;
+    cursor: pointer;
+  }
+  &__bag {
+    margin-left: 1.1rem;
+  }
+  &__list {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: linear-gradient(180deg, #55b74c 0%, #4ba043 162.75%);
+    border-radius: 7px;
+    margin-top: 40px;
+  }
+  &__link {
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    color: $white;
+    padding: 15px 15px 10px;
+    display: block;
+    &:hover::after,
+    &_active::after {
+      transform: scaleX(1);
+    }
+    &::after {
+      content: "";
+      height: 2px;
+      width: 100%;
+      display: block;
+      background-color: $white;
+      transition: 0.4s transform;
+      transform: scaleX(0);
+      transform-origin: left;
+      margin-top: 5px;
+    }
+    &_active::after {
+      transform: scaleX(1);
+    }
+  }
+}
